@@ -14,5 +14,5 @@ Develop: C, Objective-C, Cpp và Swift.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H0ahuynh&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/H0ahuynh/)
 
 ### Thông tin liên lạc
-- `Hòa Huỳnh` Facebook.
-- `Hòa Huỳnh` Twitter.
+- [Facebook](https://facebook.com/hoahuynh.htbn).
+- [Twitter](https://twitter.com/hoa_huynh19).
