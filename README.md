@@ -1,7 +1,7 @@
 ### Thông tin về tôi
 Chuyên gia bảo mật tại Trung tâm Giám sát an toàn không gian mạng quốc gia (National Cyber Security Center - NCSCvn).
 
-Trưởng nhóm  [LiRa Team](https://flirateam.github.io).
+Trưởng nhóm  [LiRa Team](https://lirateam.github.io).
 
 Develop: C, Objective-C, Cpp và Swift.
 
