@@ -3,7 +3,7 @@ Chuyên gia bảo mật tại Trung tâm Giám sát an toàn không gian mạng 
 
 Trưởng nhóm  [LiRa Team](https://lirateam.github.io).
 
-Developer: C, Objective-C, Cpp và Swift.
+Developer: C, C#, Python, Ruby, Objective-C, Swift và SwiftUI.
 
 ### Dựa án
 - [LiRa SSH jailbreak](https://github.com/H0aHuynh/LiRa) - jailbreak iOS 12.0 -14.3
