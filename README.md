@@ -11,9 +11,9 @@ Developer: C, Objective-C, Cpp và Swift.
 
 ### GitHub Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=H0ahuynh&show_icons=true&theme=dark)](https://github.com/H0ahuynh)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H0ahuynh&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/H0ahuynh/)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=H0ahuynh&show_icons=true&theme=dark)](https://github.com/H0ahuynh)
 
 ### Thông tin liên lạc
 - [Facebook](https://facebook.com/hoahuynh.htbn).
