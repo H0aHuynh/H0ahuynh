@@ -57,13 +57,13 @@ Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libho
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
 Filename: debs/saigonstuti_1.0~Beta_iphoneos-arm.deb
 Size: 57020
-MD5sum: 8a368352c7cb3d101417fa8acebcc85e
-SHA1: fbbd8d1e5b28bda933bf52adc8a851b2464d9cd1
-SHA256: 2eb46a603907bde927ac5ecf944b572362dec3fc2037627a6f70d0385ef69e62
+MD5sum: 3f7fb679ab7645f6c1ff70fe1da5212d
+SHA1: 3082b14315c87e60a7594af4e3e24282f27e11e4
+SHA256: 1fcdd92e37896b32281422307be2c802dc39de7a87bcc776b9e3f5db8e72c4a0
 Section: System
 Description: Chất nền trên SaiGon Jailbreak
 Author: Hoà Huỳnh
-Icon: https://h0ahuynh.github.io/repo/CydiaIcon.png
+Icon: https://h0ahuynh.github.io/H0ahuynh/CydiaIcon.png
 Name: SaiGon Stuti
-Sileodepiction: https://h0ahuynh.github.io/dt/SaiGonStuti.json
+Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/SaiGonStuti.json
 
