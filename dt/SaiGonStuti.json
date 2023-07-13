@@ -1,0 +1,54 @@
+{
+	"class":"DepictionTabView",
+	"minVersion":"0.3",
+	"headerImage":"",
+	"tintColor":"#7d55ec",
+	"tabs":[
+		{
+			"class":"DepictionStackView",
+			"tabname":"Thông tin",
+			"views":[
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"Chất nền trên SaiGon Jailbreak",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
+					"class":"DepictionHeaderView",
+					"title":"Thông tin"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"13/7/2023",
+					"title":"Cập nhật"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"Miễn phí",
+					"title":"Giấy phép"
+				}
+			]
+		},
+		{
+			"class":"DepictionStackView",
+			"tabname":"Cập nhật",
+			"views":[
+				
+			    {
+					"class":"DepictionSubheaderView",
+					"title":"1.0~Beta",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"Phát thành.",
+					"useSpacing":true
+				}
+			]
+		}
+	]
+}
