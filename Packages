@@ -67,3 +67,23 @@ Icon: https://h0ahuynh.github.io/H0ahuynh/CydiaIcon.png
 Name: SaiGon Stuti
 Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/SaiGonStuti.json
 
+Package: zebra
+Version: 1.1.40
+Architecture: iphoneos-arm
+Maintainer: Zebra Team <team@getzbra.com>
+Installed-Size: 17008
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: debs/zebra_1.1.40_iphoneos-arm.deb
+Size: 8344628
+MD5sum: 6058e01a79ac1e9a87e5a6deef38b573
+SHA1: e3f2475729bc1ac21c80eff3852aea72b2efee5e
+SHA256: 283ed605e3b866528ff8a002180581e0ecb70306b706a40d61850e425a6d9264
+Section: Packaging
+Description: A Useful Package Manager
+Tag: compatible::9.0-16.4
+Author: Zebra Team <team@getzbra.com>
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Name: Zebra
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
+
