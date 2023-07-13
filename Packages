@@ -33,19 +33,19 @@ Dev: dustinhowett
 Name: PreferenceLoader
 
 Package: safemode
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Hoà Huỳnh
 Depends: firmware (>= 11.0), cy+cpu.arm64
-Filename: debs/safemode_1.0_iphoneos-arm.deb
-Size: 452456
-MD5sum: eb1b1cf989e0b828d288b223f0d07677
-SHA1: 3c76e4c88561155df30d7fa8f003deaab8815708
-SHA256: c84101b14f2a44c4e2a6d8897cda51057ce12e7508e649a90e86d36cb477830e
+Filename: debs/safemode_1.1_iphoneos-arm.deb
+Size: 452468
+MD5sum: b626d155bf511e94763fc5fe5a8cb5a0
+SHA1: 48026fcc85bb09b7dbaa42f8dda4ca1c5bf41adf
+SHA256: a2e8dd3118db9c8410f3a389c83352261f759e90bb4bb6da71d82aa929b6d8de
 Section: System
 Description: Safe Mode app cho SaiGon Stuti
 Author: Hoà Huỳnh
-Name: Safe Mode (libhooker)
+Name: Safe Mode
 
 Package: saigonstuti
 Version: 1.0~Beta
