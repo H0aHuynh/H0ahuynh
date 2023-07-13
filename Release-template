@@ -1,0 +1,8 @@
+Origin: SaiGon APT
+Label: SaiGon APT
+Suite: stable
+Version: 1.0.2
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: SaiGon repo jailbreak system

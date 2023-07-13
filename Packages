@@ -1,0 +1,69 @@
+Package: com.rpetrich.rocketbootstrap
+Version: 1.1.0~stuti
+Architecture: iphoneos-arm
+Maintainer: Hoà Huỳnh
+Depends: org.coolstar.libhooker
+Filename: debs/com.rpetrich.rocketbootstrap_1.1.0~stuti_iphoneos-arm.deb
+Size: 10412
+MD5sum: 9f313719b71eb773a933f40c48d72ca2
+SHA1: 3cc3c0d4384720f473c5b273c10956d40ddd0124
+SHA256: 324c661a92ff95dd2d18f5dfb2e7286a4a48d92a74444bf33e9eed4c2b4e97aa
+Section: Tweaks
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Dev: rpetrich
+Name: RocketBootstrap
+
+Package: preferenceloader
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Hoà Huỳnh
+Depends: mobilesubstrate
+Filename: debs/preferenceloader_4.0_iphoneos-arm.deb
+Size: 16240
+MD5sum: 49f09bf6ed4e003a9bfc59b7cc57b089
+SHA1: 111f08eef01840a6d16449a2143ce197ddaa1091
+SHA256: 93c01e10f0e2e9a8c2820cc9944d3368f665947a5ced651c050cdf7b93f7972e
+Section: System
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Dev: dustinhowett
+Name: PreferenceLoader
+
+Package: safemode
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Hoà Huỳnh
+Depends: firmware (>= 11.0), cy+cpu.arm64
+Filename: debs/safemode_1.0_iphoneos-arm.deb
+Size: 452456
+MD5sum: eb1b1cf989e0b828d288b223f0d07677
+SHA1: 3c76e4c88561155df30d7fa8f003deaab8815708
+SHA256: c84101b14f2a44c4e2a6d8897cda51057ce12e7508e649a90e86d36cb477830e
+Section: System
+Description: Safe Mode app cho SaiGon Stuti
+Author: Hoà Huỳnh
+Name: Safe Mode (libhooker)
+
+Package: saigonstuti
+Version: 1.0~Beta
+Architecture: iphoneos-arm
+Maintainer: Hoà Huỳnh
+Depends: firmware (>= 11.0), cy+cpu.arm64, safemode
+Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
+Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
+Filename: debs/saigonstuti_1.0~Beta_iphoneos-arm.deb
+Size: 57020
+MD5sum: 8a368352c7cb3d101417fa8acebcc85e
+SHA1: fbbd8d1e5b28bda933bf52adc8a851b2464d9cd1
+SHA256: 2eb46a603907bde927ac5ecf944b572362dec3fc2037627a6f70d0385ef69e62
+Section: System
+Description: Chất nền trên SaiGon Jailbreak
+Author: Hoà Huỳnh
+Icon: https://h0ahuynh.github.io/repo/CydiaIcon.png
+Name: SaiGon Stuti
+Sileodepiction: https://h0ahuynh.github.io/dt/SaiGonStuti.json
+
