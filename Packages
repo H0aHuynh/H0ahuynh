@@ -15,6 +15,23 @@ Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
 Dev: rpetrich
 Name: RocketBootstrap
 
+Package: org.coolstar.sileo
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: Hoà Huỳnh
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/org.coolstar.sileo_2.8_iphoneos-arm.deb
+Size: 2903808
+MD5sum: af4da8290f0fe7af507f0e3bb319e6db
+SHA1: 673d8aa4b4a938f46b2716f3b89c05c14607ec16
+SHA256: cc83797735768047ad744b33ee75b89f1d5bf7acabb798634bff3846d273a907
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Hoà Huỳnh
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/Sileo.json
+
 Package: preferenceloader
 Version: 4.0
 Architecture: iphoneos-arm
