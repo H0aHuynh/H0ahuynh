@@ -1,3 +1,20 @@
+Package: com.rpetrich.rocketbootstrap
+Version: 1.1.0~stuti
+Architecture: iphoneos-arm
+Maintainer: Hoà Huỳnh
+Depends: org.coolstar.libhooker
+Filename: debs/com.rpetrich.rocketbootstrap_1.1.0~stuti_iphoneos-arm.deb
+Size: 10412
+MD5sum: 9f313719b71eb773a933f40c48d72ca2
+SHA1: 3cc3c0d4384720f473c5b273c10956d40ddd0124
+SHA256: 324c661a92ff95dd2d18f5dfb2e7286a4a48d92a74444bf33e9eed4c2b4e97aa
+Section: Tweaks
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Dev: rpetrich
+Name: RocketBootstrap
+
 Package: org.coolstar.sileo
 Version: 2.8
 Architecture: iphoneos-arm
@@ -8,6 +25,23 @@ Size: 2903808
 MD5sum: af4da8290f0fe7af507f0e3bb319e6db
 SHA1: 673d8aa4b4a938f46b2716f3b89c05c14607ec16
 SHA256: cc83797735768047ad744b33ee75b89f1d5bf7acabb798634bff3846d273a907
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Hoà Huỳnh
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/Sileo.json
+
+Package: org.coolstar.sileo
+Version: 2.9
+Architecture: iphoneos-arm
+Maintainer: Hoà Huỳnh
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/org.coolstar.sileo_2.9_iphoneos-arm.deb
+Size: 2886528
+MD5sum: eac20e43a71b8cd0e8f40f2db4c2a9ad
+SHA1: 7697e3c62165b1ecd91efa8a5b07709b3dd39e30
+SHA256: 5930049f89645a9e2367d7d82013aa62658d7c2b1fe7ffb3ebe44ba4ca0743b7
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: Hoà Huỳnh
@@ -31,6 +65,21 @@ Tag: role::hacker, purpose::library
 Author: Dustin Howett <cydia.pl@relay.howett.net>
 Dev: dustinhowett
 Name: PreferenceLoader
+
+Package: safemode
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Hoà Huỳnh
+Depends: firmware (>= 11.0), cy+cpu.arm64
+Filename: debs/safemode_1.0_iphoneos-arm.deb
+Size: 452456
+MD5sum: eb1b1cf989e0b828d288b223f0d07677
+SHA1: 3c76e4c88561155df30d7fa8f003deaab8815708
+SHA256: c84101b14f2a44c4e2a6d8897cda51057ce12e7508e649a90e86d36cb477830e
+Section: System
+Description: Safe Mode app cho SaiGon Stuti
+Author: Hoà Huỳnh
+Name: Safe Mode (libhooker)
 
 Package: safemode
 Version: 1.1
