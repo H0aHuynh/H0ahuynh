@@ -1,20 +1,3 @@
-Package: com.rpetrich.rocketbootstrap
-Version: 1.1.0~stuti
-Architecture: iphoneos-arm
-Maintainer: Hoà Huỳnh
-Depends: org.coolstar.libhooker
-Filename: debs/com.rpetrich.rocketbootstrap_1.1.0~stuti_iphoneos-arm.deb
-Size: 10412
-MD5sum: 9f313719b71eb773a933f40c48d72ca2
-SHA1: 3cc3c0d4384720f473c5b273c10956d40ddd0124
-SHA256: 324c661a92ff95dd2d18f5dfb2e7286a4a48d92a74444bf33e9eed4c2b4e97aa
-Section: Tweaks
-Description: Support library allowing tweaks to communicate with sandboxed processes
-Tag: purpose::extension, role::developer
-Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
-Dev: rpetrich
-Name: RocketBootstrap
-
 Package: org.coolstar.sileo
 Version: 2.8
 Architecture: iphoneos-arm
