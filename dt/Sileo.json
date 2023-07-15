@@ -83,7 +83,18 @@
 			"class": "DepictionStackView",
 			"tabname": "Changelog",
 			"views": [
-				{
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Redesign tab today\n- Redesign tab app",
+                    "useSpacing": true
+                },
+                {
 					"class": "DepictionSubheaderView",
 					"title": "2.8",
 					"useBoldText": true,
@@ -91,7 +102,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "- Adds Dopamine, palera1n and Cookie icon\n- Adds opt-in Canister analytics, user will be shown a prompt on first launch\n- Adds support for iOS 17 jailbreaks",
+					"markdown": "- Add SaiGon. jailbreak",
 					"useSpacing": true
 				},
 				{
