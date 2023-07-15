@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: Hoà Huỳnh
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: debs/org.coolstar.sileo_3.0_iphoneos-arm.deb
-Size: 2892924
-MD5sum: b5ae7849f8d6785b381577d2a2638974
-SHA1: ef9c8c0a53ea54fae5bc8ab2da63af37978d35e0
-SHA256: 16aef116defaff78309a750bbde9471d19f06f6785f81a90afab46865ecca332
+Size: 2892388
+MD5sum: eb3bd29055464f9d0b7406dfd78482ea
+SHA1: 3fefc529e5c30d16f41b1bf02333cabd6186eb4f
+SHA256: 7f3a228aeb782d47835a560a57b1419c92dbe4364d5af1867301525765f86c82
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: Hoà Huỳnh
