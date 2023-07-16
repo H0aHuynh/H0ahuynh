@@ -49,6 +49,23 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo
 Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/Sileo.json
 
+Package: org.coolstar.sileo
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/org.coolstar.sileo_3.1_iphoneos-arm.deb
+Size: 2877356
+MD5sum: e8595c2ef9d2573fb6841769703f437b
+SHA1: ba1a13a44b96368576700b27ac164d732e59e675
+SHA256: bfa7c1994144e1da94be11fae6519cde8b7e9886789c3c27fab024b699c63d6e
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: preferenceloader
 Version: 4.0
 Architecture: iphoneos-arm
