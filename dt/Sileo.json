@@ -83,7 +83,7 @@
 			"class": "DepictionStackView",
 			"tabname": "Changelog",
 			"views": [
-                
+                {
                     "class": "DepictionSubheaderView",
                     "title": "3.1",
                     "useBoldText": true,
