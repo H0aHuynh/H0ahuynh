@@ -133,6 +133,23 @@ Icon: https://h0ahuynh.github.io/H0ahuynh/CydiaIcon.png
 Name: SaiGon Stuti
 Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/SaiGonStuti.json
 
+Package: sileo
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: Hoa Huynh
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/sileo_3.2_iphoneos-arm.deb
+Size: 2907508
+MD5sum: 62a249e7955d9de5229d83493068a584
+SHA1: acc7e8927738d97246e744f48b5ce0f29caf5d8a
+SHA256: 3f866d0f8c62ca214a2a2d0f5110a90086072e78e421eec19c9e5c5d2ae74d71
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Hoa Huynh
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/Sileo.json
+
 Package: zebra
 Version: 1.1.40
 Architecture: iphoneos-arm
