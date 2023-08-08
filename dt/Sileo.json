@@ -85,9 +85,14 @@
 			"views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "3.1",
+                    "title": "3.3",
                     "useBoldText": true,
                     "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Add icon Sàion Sileo\n- Fix download file",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",

@@ -7,9 +7,9 @@ Architectures: iphoneos-arm
 Components: main
 Description: SaiGon repo jailbreak system
 MD5Sum:
-  be3593d43cb6c3d303250de9fd83903d 6506 Packages
-  51173f2e0d243608b20fe362065d0cec 2262 Packages.bz2
+  af86f5068144318066a5b09271167693 6506 Packages
+  4bd757988c9b3ea3297b188b6bac80e3 2264 Packages.bz2
 SHA256:
-  637e4a445e4165450bfcdbed893e3671ce816521407a60cab8a43a01b07a9483 6506 Packages
-  2fbfd75780c488069f81a92ae7c76206af1165e1d22c32ffec00c559b91b8438 2262 Packages.bz2
+  878045cd93de075fd68e9d704a2ac4b42a948a71a3d5cb2c04302039e4489a0e 6506 Packages
+  f32b0b68b1c3b0ec879877169bdc733d4f57eaf58e5ec267493f8db92a1c1461 2264 Packages.bz2
 

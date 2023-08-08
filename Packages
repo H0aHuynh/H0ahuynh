@@ -134,15 +134,15 @@ Name: SaiGon Stuti
 Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/SaiGonStuti.json
 
 Package: sileo
-Version: 3.2
+Version: 3.3
 Architecture: iphoneos-arm
 Maintainer: Hoa Huynh
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: debs/sileo_3.2_iphoneos-arm.deb
-Size: 2907508
-MD5sum: 62a249e7955d9de5229d83493068a584
-SHA1: acc7e8927738d97246e744f48b5ce0f29caf5d8a
-SHA256: 3f866d0f8c62ca214a2a2d0f5110a90086072e78e421eec19c9e5c5d2ae74d71
+Filename: debs/sileo_3.3_iphoneos-arm.deb
+Size: 4246044
+MD5sum: 083ec19b328e1185747f36e60d672725
+SHA1: 0c5a2d02791ced76f89d3e5acda7ab53a81b81ea
+SHA256: 2421edd6fc9f357741ede70c630b73d591735266f5939ce2ceb0c8a7694b0962
 Section: Packaging
 Description: A modern APT package manager frontend
 Author: Hoa Huynh
