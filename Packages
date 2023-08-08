@@ -66,6 +66,23 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo
 Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/Sileo.json
 
+Package: org.coolstar.sileo
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: Hoa Huynh
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: debs/org.coolstar.sileo_3.3_iphoneos-arm.deb
+Size: 4246368
+MD5sum: b6b2b3be169595fdf948fbeecc0a9c70
+SHA1: e5ccccebdae56910d9f50b8ecfb85fe2b1fd7fd2
+SHA256: 7c4475515ea5e78d2e633165e5fe5c735cf93e4e8f6d05337cad8ebe3260501d
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Hoa Huynh
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/Sileo.json
+
 Package: preferenceloader
 Version: 4.0
 Architecture: iphoneos-arm
@@ -132,23 +149,6 @@ Author: Hoà Huỳnh
 Icon: https://h0ahuynh.github.io/H0ahuynh/CydiaIcon.png
 Name: SaiGon Stuti
 Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/SaiGonStuti.json
-
-Package: sileo
-Version: 3.3
-Architecture: iphoneos-arm
-Maintainer: Hoa Huynh
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: debs/sileo_3.3_iphoneos-arm.deb
-Size: 4246044
-MD5sum: 083ec19b328e1185747f36e60d672725
-SHA1: 0c5a2d02791ced76f89d3e5acda7ab53a81b81ea
-SHA256: 2421edd6fc9f357741ede70c630b73d591735266f5939ce2ceb0c8a7694b0962
-Section: Packaging
-Description: A modern APT package manager frontend
-Author: Hoa Huynh
-Icon: https://getsileo.app/img/icon.png
-Name: Sileo
-Sileodepiction: https://h0ahuynh.github.io/H0ahuynh/dt/Sileo.json
 
 Package: zebra
 Version: 1.1.40
